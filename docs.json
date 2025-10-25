@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Coolio",
+            "hidden": true,
             "pages": [
               "index",
               "quickstart",
