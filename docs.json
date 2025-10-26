@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "mint", 
   "name": "Dock",
   "colors": {
     "primary": "#16A34A",
-    "light": "#07C983",
+    "light": "#07C983", 
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
@@ -12,13 +12,8 @@
     "tabs": [
       {
         "tab": "Home",
-        "groups": [
-          {
-            "group": "Guide",
-            "pages": [
-              "index"
-            ]
-          }
+        "pages": [
+          "index"
         ]
       }
     ]
@@ -26,23 +21,5 @@
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:legal@docksys.xyz"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.docksys.xyz"
-    }
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/your-discord-link"
-    }
   }
 }
