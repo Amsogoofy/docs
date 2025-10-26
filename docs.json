@@ -39,6 +39,7 @@
         "label": "Website", 
         "href": "https://docksys.xyz"
       }
-    ]
+    ],
+    "search": false
   }
 }
