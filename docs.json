@@ -9,42 +9,73 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Documentation",
-        "icon": "book-open",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "quickstart",
-              "development",
-              "navigation"
-            ]
-          }
+        "group": "Getting Started",
+        "icon": "play",
+        "pages": [
+          "index",
+          "quickstart",
+          "development",
+          "test"
         ]
       },
       {
-        "tab": "API reference",
+        "group": "Customization",
+        "icon": "palette",
+        "pages": [
+          "essentials/settings",
+          "essentials/navigation"
+        ]
+      },
+      {
+        "group": "Writing content",
+        "icon": "notebook-text",
+        "pages": [
+          "essentials/markdown",
+          "essentials/code",
+          "essentials/images",
+          "essentials/reusable-snippets"
+        ]
+      },
+      {
+        "group": "AI tools",
+        "icon": "brain-circuit",
+        "pages": [
+          "ai-tools/cursor",
+          "ai-tools/claude-code",
+          "ai-tools/windsurf"
+        ]
+      },
+      {
+        "group": "API documentation",
         "icon": "square-terminal",
-        "groups": [
-          {
-            "group": "Endpoints",
-            "pages": [
-              "api-reference/get",
-              "api-reference/post",
-              "api-reference/delete"
-            ]
-          }
+        "pages": [
+          "api-reference/introduction"
+        ]
+      },
+      {
+        "group": "Endpoint examples",
+        "icon": "code",
+        "pages": [
+          "api-reference/endpoint/get",
+          "api-reference/endpoint/create",
+          "api-reference/endpoint/delete",
+          "api-reference/endpoint/webhook"
         ]
       }
     ],
     "global": {
       "anchors": [
         {
+          "anchor": "Documentation",
+          "href": "https://mintlify.com/docs",
+          "icon": "book-open-cover"
+        },
+        {
           "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://external-link.com/blog"
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
         }
       ]
     }
