@@ -24,7 +24,7 @@
             ]
           },
           {
-            "group": "Customsization",
+            "group": "Customization",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
@@ -65,6 +65,18 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Legal Documents",
+            "pages": [
+              "legal/terms-of-service",
+              "legal/privacy-policy"
             ]
           }
         ]
