@@ -11,17 +11,8 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Legal",
-        "pages": [
-          "legal/terms-of-service",
-          "legal/privacy-policy"
-        ]
-      },
-      {
-        "tab": "API Documentation",
-        "pages": [
-          "api-reference/introduction"
-        ]
+        "tab": "Legal Information",
+        "pages": ["index"]
       }
     ]
   },
