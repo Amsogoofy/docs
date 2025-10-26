@@ -11,22 +11,16 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
-        "pages": [
-          "index"
-        ]
-      },
-      {
-        "tab": "API Reference", 
-        "pages": [
-          "api-reference/introduction"
-        ]
-      },
-      {
         "tab": "Legal",
         "pages": [
           "legal/terms-of-service",
           "legal/privacy-policy"
+        ]
+      },
+      {
+        "tab": "API Documentation",
+        "pages": [
+          "api-reference/introduction"
         ]
       }
     ]
