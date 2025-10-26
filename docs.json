@@ -28,5 +28,17 @@
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:support@docksys.xyz"
+      },
+      {
+        "label": "Website", 
+        "href": "https://docksys.xyz"
+      }
+    ]
   }
 }
