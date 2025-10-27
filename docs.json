@@ -10,7 +10,7 @@
   "favicon": "/favicon.svg",
   "banner": {
     "content": "Test",
-    "dismissible": true
+    "dismissible": false
   },
   "navigation": {
     "tabs": [
