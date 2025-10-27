@@ -9,8 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-    "content": "Test",
-    "dismissible": false
+    "content": "e",
+    "dismissible": false,
+    "hidden": true
   },
   "navigation": {
     "tabs": [
