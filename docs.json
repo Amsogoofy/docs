@@ -61,8 +61,8 @@
           {
             "group": "Legal Documents",
             "pages": [
-              "legal/terms-of-service",
-              "legal/privacy-policy"
+              "legal/terms",
+              "legal/privacy"
             ]
           }
         ]
