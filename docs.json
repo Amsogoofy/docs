@@ -3,9 +3,9 @@
   "theme": "almond",
   "name": "Leafy",
   "colors": {
-    "primary": "#B2AC88",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#89A389",
+    "light": "#88A47C",
+    "dark": "#8FA57A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
