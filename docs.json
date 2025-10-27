@@ -9,9 +9,8 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-    "content": "e",
-    "dismissible": false,
-    "hidden": true
+    "content": "🍃 Leafy unkown release date.",
+    "dismissible": false
   },
   "navigation": {
     "tabs": [
