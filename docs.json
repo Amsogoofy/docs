@@ -50,21 +50,19 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Legal",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Overview",
             "pages": [
-              "api-reference/introduction"
+              "legal/introduction"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Legal Documents",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "legal/terms-of-service",
+              "legal/privacy-policy"
             ]
           }
         ]
