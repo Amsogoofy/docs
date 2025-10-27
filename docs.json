@@ -14,37 +14,12 @@
         "tab": "Documentation",
         "groups": [
           {
-            "group": "2",
-            "hidden": false,
+            "group": "Getting Started",
             "pages": [
               "index",
               "quickstart",
               "development",
               "test"
-            ]
-          },
-          {
-            "group": "Customsization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
             ]
           }
         ]
