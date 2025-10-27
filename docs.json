@@ -16,10 +16,7 @@
           {
             "group": "Getting Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development",
-              "test"
+              "index"
             ]
           }
         ]
