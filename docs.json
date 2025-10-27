@@ -8,6 +8,10 @@
     "dark": "#8FA57A"
   },
   "favicon": "/favicon.svg",
+  "banner": {
+    "content": "Test",
+    "dismissible": true
+  },
   "navigation": {
     "tabs": [
       {
