@@ -24,8 +24,8 @@
             ]
           },
           {
-            "group": "Getting Started",
-            "hidden": true,
+            "group": "Brief",
+            "hidden": false,
             "pages": [
               "interduction"
             ]
